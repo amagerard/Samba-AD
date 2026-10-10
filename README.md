@@ -1,5 +1,5 @@
  
 [Home](../../../TemplateVM/wiki/home)  
 
-[Samba-AD](../../../Samba-AD/wiki/01Network)
+[Samba-AD](../../../Samba-AD/wiki/home)
 
